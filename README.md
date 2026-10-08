@@ -64,6 +64,10 @@ My biotechnology background provides a strong foundation in life sciences and sc
 
 I am particularly interested in applying analytics and programming to healthcare, clinical research, life sciences, and other data-driven environments.
 
+### Academic Research Background
+
+My academic research experience includes **BSL-2 virology research with a focus on Measles virus**, providing a scientific foundation in infectious disease and life-science research.
+
 ---
 
 ## 🛠️ Tools & Technologies
